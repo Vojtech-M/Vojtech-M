@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vojtech-M
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning Python, Javascript
+- 📫 How to reach me: vojtamichal@gmail.com
