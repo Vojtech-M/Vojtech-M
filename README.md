@@ -23,7 +23,7 @@ I enjoy to experiment
 
 <div id="badges" align="center">
   <br><br>
-  <a href="www.linkedin.com/in/vojtěch-michal">
+  <a href="https://www.linkedin.com/in/vojt%C4%9Bch-michal/?trk=public-profile-join-page">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
