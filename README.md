@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Vojtech-M&color=green)
 
 # 👋 Hi, I'm Vojtěch Michal
+![](https://komarev.com/ghpvc/?username=Vojtech-M&color=green)
 - 🏫 student of CTU FEE
 - 👀 I’m interested in Game development, Web 
 - 📫 How to reach me: vojtamichal04@gmail.com
@@ -29,6 +29,8 @@
 I enjoy making of webpages and small games
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=F6F7F1&width=435&lines=Dream+it.+build+it+!)](https://git.io/typing-svg)
+
+
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/vojt%C4%9Bch-michal/?trk=public-profile-join-page">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
