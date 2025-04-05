@@ -19,7 +19,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash_logo" width="50" height="50"/>&nbsp;
 </div>
 
- I’m currently learning:
+###  I’m currently learning:
  <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java_logo" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IDEA_logo" width="50" height="50"/>&nbsp;
