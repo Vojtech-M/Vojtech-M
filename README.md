@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vojtěch Michal
 ![](https://komarev.com/ghpvc/?username=Vojtech-M&color=green)
-- 🏫 student of CTU FEE
+- 🦁 student of CTU FEE
 - 👀 I’m interested in Game development, Web 
 - 📫 How to reach me: vojtamichal04@gmail.com
 
